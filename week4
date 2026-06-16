@@ -1,0 +1,23 @@
+# Week 4 Learning Journal
+
+## Learning Activities and Resources
+
+This week, I learned how to set up a local WordPress development environment using LocalWP. I installed Local on my computer and created a WordPress website connected to a MySQL database. Through this process, I gained practical experience in local website development and understood how WordPress can be tested and modified before deployment to a live server.
+
+After completing the practical task, I explored additional resources related to LocalWP and WordPress local development to strengthen my understanding of the development workflow used by professional web developers.
+
+**Websites:https://liujiashuo.rf.gd/wp/contact/
+
+- https://localwp.com/help-docs/getting-started/create-a-site/
+- https://wordpress.org/documentation/
+- https://youtu.be/qc9jv4F9gVY
+
+## Estimated Hours for Learning Activities
+
+I spent approximately **4 hours** working on this topic during the week. This included installing LocalWP, creating a local WordPress website, exploring the WordPress dashboard, and learning how to manage plugins and website content.
+
+## Content Insights
+
+Setting up a local WordPress environment provided a valuable introduction to the process of developing dynamic websites safely before publishing them online. I learned that LocalWP automatically configures important components such as PHP, MySQL, and the web server, making the setup process much easier for beginners.
+
+I also gained a deeper understanding of how WordPress functions as a content management system (CMS). Unlike static websites, WordPress stores content in a database and dynamically generates web pages. Through this practical experience, I became more confident in managing WordPress sites and troubleshooting local development issues.
